@@ -288,6 +288,16 @@
   categories:
   - Responses
   - RAG & Retrieval
+- title: RAG evaluation with Claude
+  description: Use Claude as an LLM-as-judge to score RAG pipelines on faithfulness,
+    answer relevancy, and context precision without labeled data.
+  path: misc/rag_evaluation_with_claude.ipynb
+  authors:
+  - rodolfboctor
+  date: '2026-03-27'
+  categories:
+  - Evaluation
+  - RAG & Retrieval
 - title: Best practices for using vision with Claude
   description: Tips and techniques for optimal image processing performance with Claude's
     vision capabilities.
